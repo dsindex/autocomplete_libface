@@ -35,24 +35,13 @@ autocomplete_libface
   ```bash
   cd src
   ./test_libface -f data/ac_file.txt
-  Successfully added 100000/100000records from '../data/ac_file.txt' in 0second(s)
+  Successfully added 4/4records from '../data/ac_file.txt' in 0second(s)
 
-  [ 
-  { "phrase": "다음", "score": 76374, "snippet": "다음" },
-  { "phrase": "다음앱", "score": 46771, "snippet": "다음앱" },
-  { "phrase": "다음지도", "score": 27387, "snippet": "다음지도" },
-  { "phrase": "다음증권", "score": 13817, "snippet": "다음증권" },
-  { "phrase": "다음카페", "score": 10480, "snippet": "다음카페" },
-  { "phrase": "다음카카오", "score": 9956, "snippet": "다음카카오" },
-  { "phrase": "다음웹툰", "score": 4630, "snippet": "다음웹툰" },
-  { "phrase": "다음운세", "score": 3566, "snippet": "다음운세" },
-  { "phrase": "다음팟", "score": 2529, "snippet": "다음팟" },
-  { "phrase": "다음팟플레이어", "score": 2132, "snippet": "다음팟플레이어" },
-  { "phrase": "다음증권시세", "score": 1971, "snippet": "다음증권시세" },
-  { "phrase": "다음클라우드", "score": 1876, "snippet": "다음클라우드" },
-  { "phrase": "다음메일", "score": 1737, "snippet": "다음메일" },
-  { "phrase": "다음팟인코더", "score": 1487, "snippet": "다음팟인코더" },
-  { "phrase": "다음까페", "score": 1397, "snippet": "다음까페" }
+  카카오
+  [ { "phrase": "카카오", "score": 100, "snippet": "카카오" },
+    { "phrase": "카카오톡", "score": 98, "snippet": "카카오톡" },
+    { "phrase": "카카오페이지", "score": 90, "snippet": "카카오페이지" },
+    { "phrase": "카카오그룹", "score": 80, "snippet": "카카오그룹" }
   ]
   ```
 
