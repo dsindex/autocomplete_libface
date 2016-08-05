@@ -13,6 +13,8 @@ autocomplete_libface
       - SparseTable
         - space cost O(nlogn) (=2nlogn hidden cost), build cost O(nlogn), query cost O(1) (=2 hidden cost)
     - `refactoring for easy use : create~, import~, suggest~`
+  - theoretical background
+    - [segment tree, rmq and autocomplete](https://github.com/dsindex/blog/wiki/%5Balgorithm%5D-segment-tree,-rmq-and-autocomplete)
 
 - Compilation
   ```bash
